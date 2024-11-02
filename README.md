@@ -1,7 +1,7 @@
-# 🔋 Battery Level Indicator Percentage
+# Battery Level Indicator Percentage
 This project is a **Live Battery Indicator** built using HTML, CSS, and JavaScript. It provides a real-time display of your device's battery level, visually representing the percentage with gradient colors and animations. The interface also shows whether the device is charging or has a low battery status.
 
-## Features ✨
+## Features 
 
 - Displays battery percentage.
 - Indicates whether the battery is full, charging, or low.
@@ -13,7 +13,7 @@ This project is a **Live Battery Indicator** built using HTML, CSS, and JavaScri
 - Animation for charging and low battery status.
 - Responsive design for all screen sizes.
 
-## Project Structure 📁
+## Project Structure
 
 ```
 ├── assets
@@ -24,7 +24,7 @@ This project is a **Live Battery Indicator** built using HTML, CSS, and JavaScri
 └── index.html                # Main HTML file
 ```
 
-## How to Use ⚙️
+## How to Use
 
 1. **Clone the repository**:
    ```bash
